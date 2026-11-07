@@ -43,4 +43,4 @@ Sete quadros visuais foram analisados: fila de cargas; análise; voos; remanejam
 
 Este é um projeto acadêmico independente, sem integração aos sistemas da Azul. Os dados de cargas e voos são fictícios. Não há endosso ou sistema de produção da companhia.
 
-**Publicação:** confirmar autorização dos integrantes do trabalho antes de publicar PDFs, prints ou números de matrícula da equipe.
+
