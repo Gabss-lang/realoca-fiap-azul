@@ -1,0 +1,26 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+
+# IDE, OS, builds
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+build/
+target/
+node_modules/
+*.log
+
+# Dumps and private materials
+*.sql.gz
+*.dump
+*.backup
+secrets/
+private/
